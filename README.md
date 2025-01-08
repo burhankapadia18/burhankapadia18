@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka, System Design, AWS**
 
-- 💬 Ask me about **Django, Python, C++**
+- 💬 Ask me about **Django, Flask, FastAPI, Python**
 
 - 📫 How to reach me **burhankapdawala@icloud.com**
 
