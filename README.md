@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **burhankapdawala@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZzxMSYB9vFaNADGgWYWst_0pfSlnOUCi/view?usp=share_link](https://drive.google.com/file/d/1ZzxMSYB9vFaNADGgWYWst_0pfSlnOUCi/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/10sSIgw1HlCwQis76C2k6Mp8XGbsBzY1A/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
