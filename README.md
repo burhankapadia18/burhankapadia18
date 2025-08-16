@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/burhankapadia1" target="blank"><img src="https://img.shields.io/twitter/follow/burhankapadia1?logo=twitter&style=for-the-badge" alt="burhankapadia1" /></a> </p>
 
-- 🌱 I’m currently learning **Kafka, System Design, AWS**
-
-- 💬 Ask me about **Django, Flask, FastAPI, Python**
+- 💬 Ask me about **Django, Flask, FastAPI, Python, Java**
 
 - 📫 How to reach me **burhankapdawala@icloud.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/10sSIgw1HlCwQis76C2k6Mp8XGbsBzY1A/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
